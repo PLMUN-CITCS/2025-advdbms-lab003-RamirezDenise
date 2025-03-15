@@ -1,3 +1,0 @@
-USE UniversityDB;
-
-SELECT DATABASE(); 
